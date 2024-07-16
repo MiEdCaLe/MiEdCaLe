@@ -1,6 +1,8 @@
-Mechatronics Engineer, amateur game developer and artist.
-- C++ game developer,
+Mechatronics Engineer, amateur game developer and artist, CAD Designer.
+- C++ game developer
 - traditional and digital artist.
+
+- HTML, CSS.
 
 <!---
 MiEdCaLe/MiEdCaLe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
