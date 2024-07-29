@@ -3,6 +3,9 @@ Mechatronics Engineer, amateur game developer artist, and CAD designer.
 Languages:
 - C++, x86 and x86_64 ASM,Python, MATLAB
 
+Web:
+- HTML, CSS, Javascript
+
 - traditional and digital artist, guitar player.
 
 <!---
