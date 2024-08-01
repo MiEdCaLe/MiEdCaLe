@@ -3,7 +3,7 @@ Traditional and digital artist, guitar player.
 
 
 Languages:
-- C++, x86 and x86_64 ASM,Python, MATLAB
+- C++, x86 NASM and x86_64 MASM,Python, MATLAB
 
 Web:
 - HTML, CSS, Javascript
