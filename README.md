@@ -1,9 +1,12 @@
-Mechatronics Engineer, amateur game developer artist, and CAD designer.
+Mechatronics Engineer, amateur game developer, artist, and CAD designer.
 Traditional and digital artist, guitar player.
 
 
 Languages:
 - C++, x86 NASM and x86_64 MASM,Python, MATLAB
+
+Frameworks:
+- OpenGL, SDL2, QT
 
 Web:
 - HTML, CSS, Javascript
