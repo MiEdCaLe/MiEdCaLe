@@ -6,7 +6,7 @@ Languages:
 - C++, x86 NASM and x86_64 MASM,Python, MATLAB
 
 Frameworks:
-- OpenGL, SDL2, QT
+- OpenGL, SDL2, Qt
 
 Web:
 - HTML, CSS, Javascript
