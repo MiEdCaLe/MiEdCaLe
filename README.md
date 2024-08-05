@@ -3,7 +3,7 @@ Traditional and digital artist, guitar player.
 
 
 Languages:
-- C++, x86 NASM and x86_64 MASM,Python, MATLAB
+- C++, x86 NASM and x86_64 MASM, Python, MATLAB
 
 Frameworks:
 - OpenGL, SDL2, Qt
