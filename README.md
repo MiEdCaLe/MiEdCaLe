@@ -1,4 +1,4 @@
-Mechatronics Engineer, amateur game developer, artist, and CAD designer.
+Mechatronics Engineer, amateur game developer, and CAD designer.
 Traditional and digital artist, guitar player.
 
 
