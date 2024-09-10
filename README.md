@@ -1,15 +1,19 @@
+# About Me
 Mechatronics Engineer, amateur game developer, and CAD designer.
 Traditional and digital artist, guitar player.
 
 
-Languages:
-- C++, x86 NASM and x86_64 MASM, Python, MATLAB
+## Languages
+- C++, Java, x86 NASM and x86_64 MASM, Python, MATLAB
 
 Frameworks:
 - OpenGL, SDL2, Qt
 
-Web:
-- HTML, CSS, Javascript
+## Web Developent
+- HTML, CSS, TypeScript, JavaScript
+
+Frameworks:
+- React, SpringBoot
 
 <!---
 MiEdCaLe/MiEdCaLe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
