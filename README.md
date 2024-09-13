@@ -12,17 +12,13 @@ Traditional and digital artist, guitar player.
 
 
 ## Languages
-- C++, Java, x86 NASM and x86_64 MASM, Python, MATLAB
+- C++, Java, TypeScript, JavaScript, x86 NASM and x86_64 MASM, Python, MATLAB.
 
 Frameworks:
 - OpenGL, SDL2, Qt
 
 ## Web Developent
-- HTML, CSS, TypeScript, JavaScript
-
-Frameworks:
-- React, SpringBoot
-
+- React, SpringBoot, MongoDB
 <!---
 MiEdCaLe/MiEdCaLe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
