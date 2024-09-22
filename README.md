@@ -7,7 +7,7 @@
 ```
                                                     
 # About Me
-Mechatronics Engineer, amateur game developer, and CAD designer.
+Mechatronics Engineer, amateur game developer.
 Traditional and digital artist, guitar player.
 
 ## Languages
