@@ -14,7 +14,7 @@ Traditional and digital artist, guitar player.
 - C++, Java, TypeScript, JavaScript, x86 NASM and x86_64 MASM, Python, MATLAB.
 
 ### C++ Frameworks
-- OpenGL, SDL2, Qt
+- SDL2, Qt
 
 ## Frontend
 - React
