@@ -11,10 +11,13 @@ Mechatronics Engineer, amateur game developer.
 Traditional and digital artist, guitar player.
 
 ## Languages
-- C++, Java, TypeScript, JavaScript, x86 NASM and x86_64 MASM, Python, MATLAB.
+- C++, C, Java, TypeScript, JavaScript, x86 NASM and x86_64 MASM, Python, MATLAB.
 
 ### C++ Frameworks
 - SDL2, Qt
+
+### Build Systems
+- Make, CMake
 
 ## Frontend
 - React
