@@ -15,11 +15,14 @@ Amateur game developer, artist & musician.
 ## C/C++
 
 - CMake
-- VCPKG
+- vcpkg
+- Boost: Asio, Test, Beast
 - SDL2, imGUI, JUCE
 
 ## Other
 
+= Ghidra
+- NASM, MASM
 - GNU Make
 
 ## Web Development
