@@ -17,11 +17,10 @@ Amateur game developer, artist & musician.
 - CMake
 - vcpkg
 - Boost: Asio, Test, Beast
-- SDL2, imGUI, JUCE
+- SDL2, imGUI
 
 ## Other
 
-= Ghidra
 - NASM, MASM
 - GNU Make
 
