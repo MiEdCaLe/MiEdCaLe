@@ -12,7 +12,7 @@ B.Sc. in mechatronics engineering.
 
 Backend Java developer.
 
-Hobbyist artist & musician
+Hobbyist artist & musician.
 
 ## Skills
 
