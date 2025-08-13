@@ -16,6 +16,6 @@ Hobbyist artist & musician.
 
 ## Skills
 
-- C, C++, Java, TypeScript
+- C, Java, Python, Elisp, Bash, C++, TypeScript
 - SpringBoot, React, Angular
-- Git, Bash, Make, CMake, Docker & Podman
+- Git, Make, CMake, Docker & Podman
